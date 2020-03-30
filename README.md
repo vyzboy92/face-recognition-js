@@ -1,2 +1,2 @@
 # Face recognition for browser
-For demo visit 
+For demo click [here](https://facerecognition.accubits.com/)
